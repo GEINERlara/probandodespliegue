@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/probandodespliegue/static/css/main.efbaaf85.chunk.css",
+    "main.js": "/probandodespliegue/static/js/main.88195e93.chunk.js",
+    "main.js.map": "/probandodespliegue/static/js/main.88195e93.chunk.js.map",
+    "runtime-main.js": "/probandodespliegue/static/js/runtime-main.2fa6988c.js",
+    "runtime-main.js.map": "/probandodespliegue/static/js/runtime-main.2fa6988c.js.map",
+    "static/css/2.674c27c3.chunk.css": "/probandodespliegue/static/css/2.674c27c3.chunk.css",
+    "static/js/2.7a1c73ed.chunk.js": "/probandodespliegue/static/js/2.7a1c73ed.chunk.js",
+    "static/js/2.7a1c73ed.chunk.js.map": "/probandodespliegue/static/js/2.7a1c73ed.chunk.js.map",
+    "index.html": "/probandodespliegue/index.html",
+    "static/css/2.674c27c3.chunk.css.map": "/probandodespliegue/static/css/2.674c27c3.chunk.css.map",
+    "static/css/main.efbaaf85.chunk.css.map": "/probandodespliegue/static/css/main.efbaaf85.chunk.css.map",
+    "static/js/2.7a1c73ed.chunk.js.LICENSE.txt": "/probandodespliegue/static/js/2.7a1c73ed.chunk.js.LICENSE.txt",
+    "static/media/account.14c2bba6.svg": "/probandodespliegue/static/media/account.14c2bba6.svg",
+    "static/media/cellphone.2fad886d.svg": "/probandodespliegue/static/media/cellphone.2fad886d.svg",
+    "static/media/facebook-icon.185411d9.svg": "/probandodespliegue/static/media/facebook-icon.185411d9.svg",
+    "static/media/instagram-icon.a14c1530.svg": "/probandodespliegue/static/media/instagram-icon.a14c1530.svg",
+    "static/media/linkedin-icon.15771fd1.svg": "/probandodespliegue/static/media/linkedin-icon.15771fd1.svg",
+    "static/media/youtube-icon-red.b889bc25.svg": "/probandodespliegue/static/media/youtube-icon-red.b889bc25.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fa6988c.js",
+    "static/css/2.674c27c3.chunk.css",
+    "static/js/2.7a1c73ed.chunk.js",
+    "static/css/main.efbaaf85.chunk.css",
+    "static/js/main.88195e93.chunk.js"
+  ]
+}
